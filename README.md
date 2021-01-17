@@ -1,6 +1,6 @@
 # Clean React
 
-Sistema em ReactJS utilizando Hooks, Recoil, com uma arquitetura bem definida e desacoplada, utilizando TDD (programação orientada a testes) como metodologia de trabalho, Clean Architecture para fazer a distribuição de responsabilidades em camadas, sempre seguindo os princípios do SOLID, DRY, YAGNI, KISS e aplicando Design Patterns para resolver alguns problemas comuns.
+ReactJS system using Hooks, Recoil, with a well defined and decoupled architecture, using TDD (Test Driven Development) as a work methodology, Clean Architecture to distribute responsabilities in layers, always following the SOLID, DRY, YAGNI, KISS principles and applying Design Patterns to solve common problems.
 
 ### Principles
 - Single Responsibility Principle (SRP)
