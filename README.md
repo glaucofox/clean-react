@@ -2,7 +2,7 @@
 
 Sistema em ReactJS utilizando Hooks, Recoil, com uma arquitetura bem definida e desacoplada, utilizando TDD (programação orientada a testes) como metodologia de trabalho, Clean Architecture para fazer a distribuição de responsabilidades em camadas, sempre seguindo os princípios do SOLID, DRY, YAGNI, KISS e aplicando Design Patterns para resolver alguns problemas comuns.
 
-# Principles
+### Principles
 - Single Responsibility Principle (SRP)
 - Open Closed Principle (OCP)
 - Liskov Substitution Principle (LSP)
@@ -15,7 +15,7 @@ Sistema em ReactJS utilizando Hooks, Recoil, com uma arquitetura bem definida e 
 - Composition Over Inheritance
 - Small Commits
 
-# Design Patterns
+### Design Patterns
 
 - Factory
 - Adapter
@@ -26,7 +26,7 @@ Sistema em ReactJS utilizando Hooks, Recoil, com uma arquitetura bem definida e 
 - Builder
 - Proxy
 
-# Methodologies and Designs
+### Methodologies and Designs
 
 - TDD
 - Clean Architecture
@@ -42,7 +42,7 @@ Sistema em ReactJS utilizando Hooks, Recoil, com uma arquitetura bem definida e 
 - Continuous Delivery
 - Continuous Deployment
 
-# Library and Tools
+### Library and Tools
 - Typescript
 - React
 - Recoil
@@ -64,7 +64,7 @@ Sistema em ReactJS utilizando Hooks, Recoil, com uma arquitetura bem definida e 
 - Standard Javascript Style
 - React Flip Move
 
-# React Features
+### React Features
 
 - Functional Components
 - UseState
@@ -82,7 +82,7 @@ Sistema em ReactJS utilizando Hooks, Recoil, com uma arquitetura bem definida e 
 - Router
 - Memo
 
-# Git Features
+### Git Features
 
 - Alias
 - Customized Log
@@ -101,7 +101,7 @@ Sistema em ReactJS utilizando Hooks, Recoil, com uma arquitetura bem definida e 
 - Shortlog
 - Status
 
-# Typescript Features
+### Typescript Features
 
 - Advanced OOP
 - Interface
@@ -114,7 +114,7 @@ Sistema em ReactJS utilizando Hooks, Recoil, com uma arquitetura bem definida e 
 - Deploy
 - Generics
 
-# Test Features
+### Test Features
 
 - Unit Tests
 - Integration Tests
